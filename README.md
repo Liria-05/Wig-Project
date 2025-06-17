@@ -48,23 +48,29 @@ mayvenn-wigs/
 │   ├── contact.css         # Shop page styles
 
 ** Installation**
+
 No installation required - this is a static website. Simply open any HTML file in a web browser to view.
 
 **How to Use**
+
 Navigation:
+
 
 Use the header navigation to browse between pages
 
 
 Shopping:
 
+
 Browse products on the Shop page
 
 
 **Customization**
+
 To customize this project:
 
 Content:
+
 
 Edit HTML files to update text content
 
@@ -72,16 +78,19 @@ Replace images in the images folder
 
 Styling:
 
+
 Modify CSS variables in :root for color scheme changes
 
 Adjust spacing and layouts in individual CSS files
 
 Functionality:
 
+
 You can extend functionality by forking the repository and adding JavaScript in a script.js file for additional features
 
 
 **Browser Support**
+
 Chrome (latest)
 
 Firefox (latest)
@@ -93,6 +102,7 @@ Edge (latest)
 Chrome for Android
 
 **Future Improvements**
+
 Add user authentication system
 
 Implement product search functionality
@@ -104,4 +114,5 @@ Add product review system
 Create admin dashboard for inventory management
 
 **License**
+
 This project is open source and available under the MIT License.
