@@ -1,8 +1,8 @@
-Mayvenn Wigs - E-commerce Website
-Project Overview
+**Mayvenn Wigs - E-commerce Website**
+**Project Overview**
 Mayvenn Wigs is a premium e-commerce website specializing in high-quality wigs and hair extensions. This project features a modern, responsive design with a focus on user experience and visual appeal.
 
-Features
+**Features**
 Responsive Design: Fully optimized for all device sizes
 
 Modern UI: Clean, elegant interface with smooth animations
@@ -29,7 +29,7 @@ Responsive grid layouts
 
 CSS animations and transitions
 
-Semantic HTML
+**Semantic HTML**
 mayvenn-wigs/
 ├── index.html              # Homepage
 ├── About.html              # About Us page          
@@ -43,10 +43,10 @@ mayvenn-wigs/
 │   ├── About.css           # About page styles     
 │   ├── contact.css         # Shop page styles
 
- Installation
+** Installation**
 No installation required - this is a static website. Simply open any HTML file in a web browser to view.
 
-How to Use
+**How to Use**
 Navigation:
 
 Use the header navigation to browse between pages
@@ -57,7 +57,7 @@ Shopping:
 Browse products on the Shop page
 
 
-Customization
+**Customization**
 To customize this project:
 
 Content:
@@ -77,7 +77,7 @@ Functionality:
 You can extend functionality by forking the repository and adding JavaScript in a script.js file for additional features
 
 
-Browser Support
+**Browser Support**
 Chrome (latest)
 
 Firefox (latest)
@@ -88,7 +88,7 @@ Edge (latest)
 
 Chrome for Android
 
-Future Improvements
+**Future Improvements**
 Add user authentication system
 
 Implement product search functionality
@@ -99,5 +99,5 @@ Add product review system
 
 Create admin dashboard for inventory management
 
-License
+**License**
 This project is open source and available under the MIT License.
