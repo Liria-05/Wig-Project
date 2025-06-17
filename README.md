@@ -14,15 +14,16 @@ Product Showcase: Beautifully displayed wig collections
 
 About Page: Engaging brand story presentation
 
-Technologies Used
+**Technologies Used**
+
 Frontend:
 
 HTML5
 
 CSS3 (with CSS Variables)
 
-
 Font Awesome Icons
+
 
 Design Principles:
 
@@ -34,8 +35,10 @@ CSS animations and transitions
 
 **Semantic HTML**
 
-mayvenn-wigs/
-├── index.html              # Homepage
+
+**mayvenn-wigs
+
+**├── index.html              # Homepage
 ├── About.html              # About Us page          
 ├── contact.html            # Product listing page
 ├── images/                 # All website images
@@ -46,6 +49,7 @@ mayvenn-wigs/
 │   ├── styles.css          # Main styles
 │   ├── About.css           # About page styles     
 │   ├── contact.css         # Shop page styles
+****
 
 ** Installation**
 
