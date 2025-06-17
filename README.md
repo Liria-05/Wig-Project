@@ -1,8 +1,11 @@
 **Mayvenn Wigs - E-commerce Website**
+
 **Project Overview**
+
 Mayvenn Wigs is a premium e-commerce website specializing in high-quality wigs and hair extensions. This project features a modern, responsive design with a focus on user experience and visual appeal.
 
 **Features**
+
 Responsive Design: Fully optimized for all device sizes
 
 Modern UI: Clean, elegant interface with smooth animations
@@ -30,6 +33,7 @@ Responsive grid layouts
 CSS animations and transitions
 
 **Semantic HTML**
+
 mayvenn-wigs/
 ├── index.html              # Homepage
 ├── About.html              # About Us page          
