@@ -6,7 +6,7 @@ Mayvenn Wigs is a premium e-commerce website specializing in high-quality wigs a
 
 **Features**
 
-Responsive Design: Fully optimized for all device sizes
+Responsive Design: Fully optimized for all device sizes 
 
 Modern UI: Clean, elegant interface with smooth animations
 
